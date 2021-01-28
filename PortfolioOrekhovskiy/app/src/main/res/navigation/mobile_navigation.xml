@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_about">
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="ru.ifmo.mobdev.portfolioorekhovskiy.ui.about.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/nav_skills"
+        android:name="ru.ifmo.mobdev.portfolioorekhovskiy.ui.skills.SkillsFragment"
+        android:label="@string/skills"
+        tools:layout="@layout/fragment_skills" />
+
+    <fragment
+        android:id="@+id/nav_career"
+        android:name="ru.ifmo.mobdev.portfolioorekhovskiy.ui.career.CareerFragment"
+        android:label="@string/career"
+        tools:layout="@layout/fragment_career" />
+
+    <fragment
+        android:id="@+id/nav_contacts"
+        android:name="ru.ifmo.mobdev.portfolioorekhovskiy.ui.contacts.ContactsFragment"
+        android:label="@string/contacts"
+        tools:layout="@layout/fragment_contacts" />
+</navigation>

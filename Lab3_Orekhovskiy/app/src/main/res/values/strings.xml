@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3_Orekhovskiy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_checked">Checked</string>
+    <string name="checked_fragment_text">Checked</string>
+    <string name="dashboard_fragment_text">Dashboard</string>
+    <string name="home_fragment_text">Home</string>
+    <string name="notification_fragment_text">Notification</string>
+</resources>

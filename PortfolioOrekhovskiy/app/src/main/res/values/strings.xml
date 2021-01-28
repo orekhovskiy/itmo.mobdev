@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Portfolio Orekhovskiy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Антон Ореховский</string>
+    <string name="nav_header_subtitle">\@sempaw</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="contacts">Контакты</string>
+    <string name="about">Обо мне</string>
+    <string name="skills">Навыки</string>
+    <string name="career">Карьера</string>
+    <string name="about_text">Меня зовут Антон Ореховский. Я студент 4 курса. Обучаюсь на направлении программной инженерии. Интересуюсь веб-разработкой. В свое свободное вреямя люблю готовить, а затем, разумеется, поглощать, сложные блюда.</string>
+    <string name="label_vk">Моя страничка в ВК</string>
+    <string name="label_email">Написать мне на почту</string>
+    <string name="email">Email</string>
+    <string name="vk">VK</string>
+    <string name="career_text">На данный момент моя карьера ни чем не примечательна. Я проходил стажировку в компании QuantumArt в качестве веб-разработчика, но был вынужден уйти оттуда в связи с пандемией. Как программист, планирую развиваиться в области веба, в частности в ASP.NET. </string>
+    <string name="language">language</string>
+</resources>
